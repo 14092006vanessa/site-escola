@@ -9,7 +9,7 @@ justify-content: space-around;
 padding: 24px 0;
 }
 .imagem-cabecalho{
-    widht:15%;
+    width: 15%;
     height: 5%;
 }
 li
@@ -21,4 +21,4 @@ h1
 {display: block;
 margin: o 16px;
 padding: 100px 0;
-font-size: 40px;}
+font-size: 19px}
