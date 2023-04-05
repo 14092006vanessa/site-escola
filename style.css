@@ -2,7 +2,8 @@
     margin: 100;
    padding:100;
 }
-header {background-color: rgba(9, 73, 212, 0.664);
+body{font-family: 'Times New Roman', Times, serif;}
+header {background-color: rgba(248, 254, 255, 0.664);
 color: black;
 display: flex;
 justify-content: space-around;
@@ -25,8 +26,12 @@ margin:0 70px;
 padding:0 40px;
 font-size: 30px;}
 .escola-imagem{
-    width: 15%;
+    width: 70%;
 }
 .escola{
-    background-image: linear-gradient(rgb(61, 129, 255),rgb(8, 189, 62));
+    background-image: linear-gradient(rgb(187, 20, 8),rgb(192, 20, 20));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 34px 0;
 }
