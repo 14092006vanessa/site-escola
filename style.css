@@ -33,5 +33,11 @@ font-size: 30px;}
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 34px 0;
+    padding: 34px 0
+    
+}
+.estudante-icone
+{width: 100px;;}
+.estudante-div {
+    text-align: center;
 }
